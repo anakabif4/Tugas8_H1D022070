@@ -1,1 +1,19 @@
-# Tugas8_H1D022070
+# Penjelasan Proses CRUD
+Ini adalah tampilan awal program.
+![Tampilan Awal](tampilanawal.png)
+## 1. Create (Tambah Data)
+![Tambah Data](create.png)
+- Pada proses ini, user bisa menambahkan data mahasiswa baru dengan mengisi form yang sudah tersedia.
+![Isi Form Tambah](createisi.png)
+- Setelah mengisi nama dan jurusan, tekan tombol "Tambah Mahasiswa" untuk menyimpan data baru ke dalam sistem.
+
+## 2. Read (Lihat Data)
+![Lihat Data](setelahtambah.png)
+- Data mahasiswa yang sudah ditambahkan akan ditampilkan dalam bentuk daftar di halaman awal.
+- Setiap entri menampilkan nama dan jurusan mahasiswa.
+
+## 3. Update (Edit Data)
+![Edit Data](edit.png)
+- Ini adalah sebuah proses yang memungkinkan user mengubah data mahasiswa.
+- Pilih tombol "Edit" pada data mahasiswa yang ingin diperbarui, kemudian lakukan perubahan, terakhir tekan tombol "Edit Mahasiswa" untuk menyimpan perubahannya.
+![Setelah Perubahan](setelah edit.png)
